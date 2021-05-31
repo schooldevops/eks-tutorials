@@ -8,9 +8,11 @@
 
 [01.02. EKS Policy연동](01.Prepare/02.AWS_EKS_Policy.md)
 
-## Kubernetes 및 EKS 도구 설치 
+## Kubernetes 및 EKS 도구 설치 및 EKS 클러스터 구성하기. 
 
-## eksctl 알아보기. 
+[02.01. Install Tools](02.Install/01.install_tools.md)
+
+[02.02. Create Cluster](02.Install/02.CreateEKSCluster.md)
 
 ## Dashboard 설치 
 
