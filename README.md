@@ -32,3 +32,4 @@
 
 ## Istio
 
+https://awskrug.github.io/eks-workshop/deploy/deployfrontend/
